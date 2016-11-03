@@ -1,5 +1,5 @@
 # wordcount_ruby
-A word count script created in ruby to test ruby against other languages.
+A word count script created in ruby to test it against other languages.
 
 * Ask for input file
 * Output most common word in the input file.
